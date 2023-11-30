@@ -1,0 +1,1 @@
+This is a folder containing my adventure into advanced HTML. I will be exploring html semantics and adding stylesheets, wish me luck!!!!
